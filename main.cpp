@@ -397,7 +397,7 @@ extern "C" void* ThreadStats(void*) {
   return nullptr;
 }
 
-static const string mainnet_seeds[] = {"dns0.rupee.sh", "dns1.rupee.sh", "dns2.rupee.sh", "dns3.rupee.sh", "dns4.rupee.sh", "dns5.rupee.sh", ""};
+static const string mainnet_seeds[] = {"dns1.rupee.sh", "dns2.rupee.sh", "dns3.rupee.sh", "dns4.rupee.sh", "dns5.rupee.sh", "dns6.rupee.sh", "dns7.rupee.sh",""};
 static const string testnet_seeds[] = {""};
 static const string *seeds = mainnet_seeds;
 
