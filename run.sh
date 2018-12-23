@@ -12,7 +12,7 @@
 # To start the script automatically at bootup type the following command
 # update-rc.d drs-seeder defaults
 
-USER=drs
+USER=root
 NAME=drs-seeder
 WORKINGDIR="/opt/drs/drs-seeder/"
 DAEMON="/opt/drs/drs-seeder/dnsseed"
